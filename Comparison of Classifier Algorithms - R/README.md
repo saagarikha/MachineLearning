@@ -30,8 +30,8 @@ PseudoCode:
   Load in memory
   
   Repeat 10 times
-    Create random training and test sample using a ratio of 90:10 
-    for each of the classifiers
+  	Create random training and test sample using a ratio of 90:10 
+  	for each of the classifiers
       Build a model using the training data Predict on the test data
       Calculate accuracy
       Output accuracy on screen
