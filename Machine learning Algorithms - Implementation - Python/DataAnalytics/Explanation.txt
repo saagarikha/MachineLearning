@@ -1,0 +1,12 @@
+Distribution of the variables :
+	The variables from X1 to X8 are randomly distributed. The bar plot and histogram depicts the frequency of the independent variable in that particular range. The bar plot and histogram depicts that, the independent variables from X1 to X8 are not randomly distributed. The frequency is different.
+
+The Co-relation between two attributes explains how one attribute is dependent on the other attribute ie; the inter-dependencies between attribute 'a'and 'b' is measured as a value of co-relation. Higher the co-relation, greater the inter-dependency.
+ In this experiment 
+	X2 > X6 > X8 > X1 > X7 > X5 > X4 > X3
+This is the order of dependencies of the attributes with the class variable, highest being X2 and least being X3.
+
+Co-relation between the attributes X1 and X8 is the highest.
+
+For this dataset,
+Knn Classifier produces a accuracy higher compared to SVM and Naive Bayes Classifier.
