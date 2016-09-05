@@ -11,4 +11,4 @@ The dataset is named as Pima dataset. More description about this dataset can be
 *The data is here:
   https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.data
 * The description of the data is here:
-   https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima- indians-diabetes.names
+   https://archive.ics.uci.edu/ml/machine-learning-databases/pima-indians-diabetes/pima-indians-diabetes.names
