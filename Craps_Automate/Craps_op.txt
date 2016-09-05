@@ -1,0 +1,21 @@
+Round :1
+    Stratergy 1    900  Games  10
+    Stratergy 2    800    Games   10
+    Stratergy 3   900   Games   10
+Round :2
+    Stratergy 1    1000  Games  10
+    Stratergy 2    900    Games   10
+    Stratergy 3   1000   Games   10
+Round :3
+    Stratergy 1    900  Games  10
+    Stratergy 2    800    Games   10
+    Stratergy 3   900   Games   10
+Round :4
+    Stratergy 1    1200  Games  10
+    Stratergy 2    1200    Games   10
+    Stratergy 3   1600   Games   10
+Round :5
+    Stratergy 1    1100  Games  10
+    Stratergy 2    1100    Games   10
+    Stratergy 3   1100   Games   10
+The best stratergy that worked is : Reverse Martingale
