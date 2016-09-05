@@ -1,0 +1,10 @@
+This zip file includes files such as :
+	executeAlgorithms.sh -> To run the classifier model
+	MLAlgorithms.R -> R file containing the data model for 9 classifiers
+
+How to run the program :
+	Extract the package and goto the extracted folder location in terminal.
+	In terminal, type :
+		bash executeAlgorithms.sh
+
+The accuracy for the 9 classifiers and the average accuracy are computed and mentioned in the program
