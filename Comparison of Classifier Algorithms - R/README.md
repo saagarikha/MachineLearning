@@ -26,6 +26,7 @@ The wide range of datasets are obtained when executing the program, fetched, pre
 The executeAlgorithms script file contains a boolean flag which helps us to identify whether the dataset has a header or not. It also contains the index of Class variable attribute to classify. The training and testing ratio from dataset is 90:10. The psuedo code of the workflow is:
 
 PseudoCode:
+  
   Read the dataset using the command line 
   
   Load in memory
