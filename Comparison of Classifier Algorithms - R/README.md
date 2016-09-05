@@ -27,15 +27,23 @@ The executeAlgorithms script file contains a boolean flag which helps us to iden
 
 PseudoCode:
   Read the dataset using the command line 
+  
   Load in memory
   
   Repeat 10 times
+  
   	Create random training and test sample using a ratio of 90:10 
+  
   	for each of the classifiers
+  
       Build a model using the training data Predict on the test data
+  
       Calculate accuracy
+  
       Output accuracy on screen
+  
     end for 
+  
   end Repeat
 
 The average accuracy for each dataset for different classifiers is computed and the analysis is performed and computed.
