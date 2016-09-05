@@ -47,4 +47,4 @@ PseudoCode:
   
   end Repeat
 
-The average accuracy for each dataset for different classifiers is computed and the analysis is performed and computed.
+The average accuracy for each dataset for different classifiers is computed and the analysis is performed and results are computed.
